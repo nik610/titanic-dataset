@@ -5,9 +5,7 @@ My analysis for the 'Titanic: Machine Learning from Disaster' competition, hoste
 
 Files: 
 
-Titanic_Analysis.html - an html file of my analysis. 
-
-Titanic_Analysis.py - a python file of my analysis. 
+Titanic dataset.ipynb - a Jupyter notebook of my analysis. 
 
 test.csv - the test data that was provided by Kaggle.com. 
 
