@@ -3,7 +3,9 @@ Titanic: Machine Learning from Disaster
 
 My analysis for the 'Titanic: Machine Learning from Disaster' competition, hosted by Kaggle.com
 
-Files: Titanic_Analysis.html - an html file of my analysis. 
+Files: 
+
+Titanic_Analysis.html - an html file of my analysis. 
 
 Titanic_Analysis.py - a python file of my analysis. 
 
